@@ -1,3 +1,4 @@
 # starter
 Playing around with Git
-Yepyepyep
+\n
+Modified YEPYEP1
